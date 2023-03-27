@@ -6,5 +6,6 @@
   - <details><summary>Community-made workarounds</summary>
 
     1. https://dev.to/micalevisk/nestjs-tip-multi-value-providers-almost-like-multi-from-angular-1c63
+    2. https://github.com/Sikora00/multi
 
     </details>
