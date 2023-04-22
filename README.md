@@ -12,6 +12,7 @@
     2. https://github.com/Sikora00/multi
 
     </details>
+- [`inject()` function to inject dependencies (Angular's feature)](https://github.com/nestjs/nest/issues/10586#issuecomment-1324707932)
 
 ## Informative
 
