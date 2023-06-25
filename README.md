@@ -13,6 +13,15 @@
 
     </details>
 
+- [`inject()` function to inject dependencies (Angular's feature)](https://github.com/nestjs/nest/issues/10586#issuecomment-1324707932)
+
+- [Custom condition in `@Catch()`](https://github.com/nestjs/nest/issues/4516)
+  - <details><summary>Community-made workarounds</summary>
+
+    1. https://dev.to/micalevisk/nestjs-tip-fine-grained-exception-filtering-for-the-same-exception-class-5ha5
+
+    </details>
+
 ## Informative
 
 - [You can't bundle the entire app as you can do with a FE app](https://github.com/nestjs/nest/issues/1706#issuecomment-579248915)
