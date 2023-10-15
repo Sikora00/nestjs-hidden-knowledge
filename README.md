@@ -4,6 +4,8 @@
 
 ## Won't be introduced
 
+- [More HTTP exception classes to `@nestjs/common` - including new entries to `HttpStatus` enum](https://github.com/nestjs/nest/issues/6657#issuecomment-799214959)
+
 - [Multi option for providers (Angular's feature)](https://github.com/nestjs/nest/issues/770#issuecomment-1412029060)
 
   - <details><summary>Community-made workarounds</summary>
